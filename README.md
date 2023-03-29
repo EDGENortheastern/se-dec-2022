@@ -1,10 +1,10 @@
-# Software Engineering
+# Welcome to the 2023 Cohort of Software Engineering
 
-## cohort intro December 2022
+My name is Craig. I love Skateboarding!
+@Waigy666
 
-Hello world. I am Lewis Ford. This time I am starting a pull request.
 
-### Hadassa
-Hello I'm Hadassa making a Pull Request
 
-![ksjdhsfkdj](screen.svg)
+
+
+
