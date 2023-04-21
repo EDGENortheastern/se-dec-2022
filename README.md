@@ -7,4 +7,4 @@ Demo for 2023
 
 ## Hello, Software Engineers
 
-Markdown rules rule
+[Markdown rules](https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md) rule
