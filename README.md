@@ -5,6 +5,8 @@ My name is Craig. I love Skateboarding!
 
 Demo for 2023
 
+I am James S., hello everyone 👋
+
 ## Hello, Software Engineers
 
 I am Katia
