@@ -13,4 +13,4 @@ I am Katia
 
 [Markdown rules](https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md) rule
 
-And we are now running the September 2023 SE cohort!
+We are now running the September 2023 SE cohort!
