@@ -14,3 +14,9 @@ I am Katia
 [Markdown rules](https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md) rule
 
 We are now running the September 2023 SE cohort!
+
+## Code blocks in Markdown
+
+```bash
+git clone
+```
