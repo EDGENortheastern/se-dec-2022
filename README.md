@@ -16,7 +16,7 @@ I am Katia
 
 We are now running the September 2023 SE cohort!
 
-## Code blocks in Markdown
+## Code blocks in `Markdown`
 
 ```bash
 git clone
