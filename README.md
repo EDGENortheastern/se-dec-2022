@@ -25,4 +25,8 @@ git clone
 
 Hello, I'm [Ioana](@it2165) 😄
 
+## Hello from June 2024
 
+```python
+my_var = 3
+```
