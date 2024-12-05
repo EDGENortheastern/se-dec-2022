@@ -12,8 +12,6 @@ I am Jack, is this thing working?
 
 ## Hello, Software Engineers
 
-I am Katia
-
 [Markdown rules](https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md) rule
 
 We are now running the September 2023 SE cohort!
