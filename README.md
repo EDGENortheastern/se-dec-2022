@@ -29,3 +29,7 @@ Hello, I'm [Ioana](@it2165) 😄
 
 ## Hello from June 2024
 Hey, Ammara here!
+
+## Hello from April 25 January 23 cohort
+
+I am Theo
