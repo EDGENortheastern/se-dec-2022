@@ -30,10 +30,12 @@ Hello, I'm [Ioana](@it2165) 😄
 ## Hello from June 2024
 Hey, Ammara here!
 
-## Hello from April 25 January 23 cohort
+## Hello from April 25, January 23 cohort
 
 I am Theo 🚂🚂🚂🚂
 
 Hello from June 2025
 
 ### Demo to link tix to PRS
+
+Hello from the January 2024 cohort!
