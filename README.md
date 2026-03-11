@@ -39,3 +39,5 @@ Hello from June 2025
 ### Demo to link tix to PRS
 
 Hello from the January 2024 cohort!
+
+Hugborg is here.
