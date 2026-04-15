@@ -41,3 +41,5 @@ Hello from June 2025
 Hello from the January 2024 cohort!
 
 Hugborg is here.
+
+Adding a dot - here .
