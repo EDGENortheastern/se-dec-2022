@@ -43,3 +43,8 @@ Hello from the January 2024 cohort!
 Hugborg is here.
 
 Adding a dot - here .
+
+
+# HELLO FROM JUNE 2026
+## Hope this works 😬
+I am Joe on the Cyber security course
