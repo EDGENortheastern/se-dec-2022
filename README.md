@@ -1,6 +1,9 @@
 # Welcome to the 2023 Cohort of Software Engineering
 
 **I am Katia!**
+
+lalala
+
 My name is Ashley and I am just back after a 3 month study break. Hi everyone :)
 
 My name is Craig. I love Skateboarding!
