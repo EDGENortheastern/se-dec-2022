@@ -12,6 +12,8 @@ I am James S., hello everyone 👋
 
 I am Jack, is this thing working?
 
+I am Emma, hello :)
+
 ## Hello, Software Engineers
 
 [Markdown rules](https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md) rule
